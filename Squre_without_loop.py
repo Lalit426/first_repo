@@ -1,0 +1,10 @@
+a=1
+print(f"{a}-{a**2}")
+b=2
+print(f"{b}-{b**2}")
+c=3
+print(f"{c}-{c**2}")
+d=4
+print(f"{d}-{d**2}")
+e=5
+print(f"{e}-{e**2}")
